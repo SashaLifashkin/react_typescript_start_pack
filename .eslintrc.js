@@ -5,6 +5,7 @@ module.exports = {
   ],
   rules: {
     'react/prop-types': 0,
+    'react/display-name': 0,
     semi: 0,
     'no-proto': 0,
     'no-unused-vars': 0,
