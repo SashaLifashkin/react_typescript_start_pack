@@ -1,4 +1,4 @@
-[link](https://sashalifashkin.github.io/react_typescript_test_task_1/)
+[LINK](https://sashalifashkin.github.io/react_typescript_test_task_1/)
 
 # React TypeScript Starter Pack
 
